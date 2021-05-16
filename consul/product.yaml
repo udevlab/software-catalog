@@ -1,0 +1,7 @@
+product: Consul
+versions:
+  - 1.9.5
+
+donwload_url: https://releases.hashicorp.com/consul/{version}/consul_{version}_{os}_{architecture}.zip
+
+version_check: consul -v
